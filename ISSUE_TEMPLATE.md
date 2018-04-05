@@ -42,6 +42,3 @@ For *students* requesting a workshop:
 
 -------
 
-#### Date:
-#### Time:
-#### Venue:
